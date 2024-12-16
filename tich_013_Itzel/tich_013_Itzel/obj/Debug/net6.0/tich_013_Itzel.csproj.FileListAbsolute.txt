@@ -1,0 +1,14 @@
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\bin\Debug\net6.0\tich_013_Itzel.exe
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\bin\Debug\net6.0\tich_013_Itzel.deps.json
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\bin\Debug\net6.0\tich_013_Itzel.runtimeconfig.json
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\bin\Debug\net6.0\tich_013_Itzel.dll
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\bin\Debug\net6.0\tich_013_Itzel.pdb
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\tich_013_Itzel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\tich_013_Itzel.AssemblyInfoInputs.cache
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\tich_013_Itzel.AssemblyInfo.cs
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\tich_013_Itzel.csproj.CoreCompileInputs.cache
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\tich_013_Itzel.dll
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\refint\tich_013_Itzel.dll
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\tich_013_Itzel.pdb
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\tich_013_Itzel.genruntimeconfig.cache
+C:\Users\itzel\OneDrive\Documentos\Visual Studio 2022\TichInsercion\tich_013_Itzel\tich_013_Itzel\obj\Debug\net6.0\ref\tich_013_Itzel.dll
