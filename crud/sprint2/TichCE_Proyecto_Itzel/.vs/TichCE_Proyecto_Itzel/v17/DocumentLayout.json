@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3266D03-171D-4980-A630-1D1CDC222719}|Entidades\\Entidades.csproj|C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\entidades\\tiposcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3266D03-171D-4980-A630-1D1CDC222719}|Entidades\\Entidades.csproj|solutionrelative:entidades\\tiposcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3266D03-171D-4980-A630-1D1CDC222719}|Entidades\\Entidades.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\crud\\sprint2\\tichce_proyecto_itzel\\entidades\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3266D03-171D-4980-A630-1D1CDC222719}|Entidades\\Entidades.csproj|solutionrelative:entidades\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3266D03-171D-4980-A630-1D1CDC222719}|Entidades\\Entidades.csproj|C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3266D03-171D-4980-A630-1D1CDC222719}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3266D03-171D-4980-A630-1D1CDC222719}|Entidades\\Entidades.csproj|C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\entidades\\gruposcomerciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3266D03-171D-4980-A630-1D1CDC222719}|Entidades\\Entidades.csproj|solutionrelative:entidades\\gruposcomerciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contratos.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\Entidades\\Contratos.cs",
+              "RelativeDocumentMoniker": "Entidades\\Contratos.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\Entidades\\Contratos.cs",
+              "RelativeToolTip": "Entidades\\Contratos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:49:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TiposContratos.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\Entidades\\TiposContratos.cs",
+              "RelativeDocumentMoniker": "Entidades\\TiposContratos.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\Entidades\\TiposContratos.cs",
+              "RelativeToolTip": "Entidades\\TiposContratos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:48:59.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clientes.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:46:37.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GruposComerciales.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\Entidades\\GruposComerciales.cs",
+              "RelativeDocumentMoniker": "Entidades\\GruposComerciales.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\crud\\sprint2\\TichCE_Proyecto_Itzel\\Entidades\\GruposComerciales.cs",
+              "RelativeToolTip": "Entidades\\GruposComerciales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:39:01.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
