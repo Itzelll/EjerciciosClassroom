@@ -62,6 +62,7 @@ C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichC
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\Newtonsoft.Json.dll
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\System.Web.Optimization.dll
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\WebGrease.dll
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\Datos.dll
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\Entidades.pdb
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\Negocio.pdb
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\System.Web.Optimization.xml
@@ -69,6 +70,7 @@ C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichC
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\Antlr3.Runtime.pdb
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\Datos.pdb
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\es\System.Web.Optimization.resources.dll
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
 C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache

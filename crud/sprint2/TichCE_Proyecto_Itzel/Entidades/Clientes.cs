@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Clientes
+    public class Clientes
     {
         public int id { get; set; }
         public int grupo { get; set; }
