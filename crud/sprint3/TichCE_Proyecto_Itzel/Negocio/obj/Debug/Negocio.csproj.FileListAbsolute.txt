@@ -1,0 +1,11 @@
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\bin\Debug\Negocio.dll
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\bin\Debug\Negocio.pdb
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\bin\Debug\Datos.dll
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\bin\Debug\Entidades.dll
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\bin\Debug\Datos.pdb
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\bin\Debug\Entidades.pdb
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\obj\Debug\Negocio.dll
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Negocio\obj\Debug\Negocio.pdb
