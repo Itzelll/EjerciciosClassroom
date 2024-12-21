@@ -46,8 +46,8 @@ create table Contratos (
 	id int primary key identity,
 	cliente int,
 	tipoContrato int,
-	fechaInicio datetime,
-	fechaFinal datetime,
+	fechaInicio date,
+	fechaFinal date,
 	monto decimal(18,2),
 	descripcion nvarchar(200),
 	foreign key (cliente) references Clientes(id),
@@ -70,3 +70,55 @@ INSERT INTO Contratos (cliente, tipoContrato, fechaInicio, fechaFinal, monto, de
 (4, 4, '2024-05-01', '2029-05-01', 12000000, 'Contrato de Generación Privada con suministro propio'),
 (5, 5, '2024-07-01', '2027-07-01', 6000000, 'Contrato de suministro eléctrico directo para La Comer Guadalajara');
 
+select * from Contratos
+
+create or alter procedure sp_actualizarContrato
+@id int,
+@cliente int,
+@tipoContrato int,
+@fechaInicio date,
+@fechaFinal date,
+@monto decimal(18,2),
+@descripcion nvarchar(200)
+as
+begin
+	begin try
+		begin transaction;
+		update Contratos set cliente=@cliente, tipoContrato=@tipoContrato, fechaInicio=@fechaInicio, 
+							fechaFinal=@fechaFinal, monto=@monto, descripcion=@descripcion where id=@id
+		commit;
+	end try
+
+	begin catch
+		ROLLBACK;
+        PRINT 'No se realizó el procedimiento. Se ha realizado un rollback.';
+		THROW 51000,'Error al realizar el procedimiento', 1;
+	end catch
+end
+
+exec sp_actualizarContrato 3,3,3,'01-01-2024','01-01-2026',7000000,'Contrato de participación en el Mercado Eléctrico Mayorista'
+
+create or alter procedure sp_agregarContrato
+@cliente int,
+@tipoContrato int,
+@fechaInicio date,
+@fechaFinal date,
+@monto decimal(18,2),
+@descripcion nvarchar(200)
+as
+begin
+	begin try
+		begin transaction;
+			insert into Contratos (cliente, tipoContrato, fechaInicio, fechaFinal, monto, descripcion)
+			values (@cliente, @tipoContrato, @fechaInicio, @fechaFinal, @monto, @descripcion)
+		commit;
+	end try
+
+	begin catch
+		ROLLBACK;
+        PRINT 'No se realizó el procedimiento. Se ha realizado un rollback.';
+		THROW 51000,'Error al realizar el procedimiento', 1;
+	end catch
+end
+
+exec sp_agregarContrato 3,1,'01-01-2024','01-01-2026',1200000,'Contrato de participación en el Mercado Eléctrico Mayorista'

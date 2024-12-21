@@ -91,7 +91,7 @@ namespace Datos
         public void Actualizar(Contratos contrato)
         {
             string query = $"update Contratos set cliente={contrato.cliente},tipoContrato={contrato.tipoContrato},fechaInicio='{contrato.fechaInicio}'," +
-                $"fechaFinal='{contrato.fechaFin}',monto={contrato.monto},descipcion='{contrato.descripcion}' where id={contrato.id} ";
+                $"fechaFinal='{contrato.fechaFin}',monto={contrato.monto},descripcion='{contrato.descripcion}' where id={contrato.id} ";
             using (SqlConnection con = new SqlConnection(_connection))
             {
                 comando = new SqlCommand(query, con);
