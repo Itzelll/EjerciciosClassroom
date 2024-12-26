@@ -1,0 +1,25 @@
+itzelll
+itzel2024
+
+Server=localhost\SQLEXPRESS01;Database=master;Trusted_Connection=True;
+
+-------------
+<connectionStrings>
+
+<add name="ContratosEnergia"
+		 connectionString="Data Source=DESKTOP-J9MADJH;Initial Catalog=ContratosEnergia;User ID=sa;password=tich"
+		 providerName="System.Data.SqlClient"/>
+
+<add name="EmpresaConnection"
+	  connectionString="Data Source=DESKTOP-0F4MFSE;Initial Catalog=InstitutoTich;User ID=sa;password=Pass2017"
+	  providerName="System.Data.SqlClient"/>
+
+<add name="LocalConnection"
+	  connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=InstitutoTich;Integrated Security=True"
+	  providerName="System.Data.SqlClient"/>
+
+<add name="ContratosEnergia"
+  connectionString="Data Source=localhost\SQLEXPRESS01;Initial Catalog=ContratosEnergia;Trusted_Connection=True;"
+  providerName="System.Data.SqlClient" />
+
+</connectionStrings>
