@@ -23,3 +23,17 @@ Server=localhost\SQLEXPRESS01;Database=master;Trusted_Connection=True;
   providerName="System.Data.SqlClient" />
 
 </connectionStrings>
+
+-------------------------
+
+Scaffold-DbContext "Server=DESKTOP-JDVOH45;Database=PruebasTich;User ID=sa;password=tich;TrustServerCertificate=true;" Microsoft.EntityFrameWorkCore.SqlServer -Tables "Estados","Alumnos" -Context EstatusContext -ContextDir Models/Context -OutputDir Models/Entities -NoPluralize -Force
+
+
+Scaffold-DbContext "Server=localhost\SQLEXPRESS01;Database=ContratosEnergia;integrated security=True;" Microsoft.EntityFrameWorkCore.SqlServer -Tables "Contratos","Clientes","TiposContratos","GruposComerciales" -Context ContratosContext -ContextDir Models/Context -OutputDir Models/Entities -NoPluralize -Force
+
+Scaffold-DbContext "Data Source=ITZELMM\SQLEXPRESS01;Initial Catalog=ContratosEnergia;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -Tables "Contratos","Clientes","TiposContratos","GruposComerciales" -Context ContratosContext -ContextDir Models/Context -OutputDir Models/Entities -NoPluralize -Force
+
+
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 3.1.32
+
+Uninstall-Package Microsoft.EntityFrameworkCore.Design -Force

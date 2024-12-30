@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\views\\contratos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\views\\contratos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\views\\contratos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\views\\contratos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\views\\contratos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\views\\contratos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\models\\entidades\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\models\\entidades\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\models\\entidades\\tiposcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\models\\entidades\\tiposcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\models\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\models\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\views\\contratos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\views\\contratos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\models\\context\\estadioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\models\\context\\estadioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\mvc_contratos\\mvc_contratos\\views\\contratos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E5E55BA-DBB7-448F-89DF-CBB8530AD8E5}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\views\\contratos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContratosController.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Controllers\\ContratosController.cs",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Controllers\\ContratosController.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Controllers\\ContratosController.cs",
+              "RelativeToolTip": "MVC_Contratos\\Controllers\\ContratosController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:58:56.494Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Views\\Contratos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Index.cshtml",
+              "RelativeToolTip": "MVC_Contratos\\Views\\Contratos\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:08:03.71Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Views\\Contratos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Delete.cshtml",
+              "RelativeToolTip": "MVC_Contratos\\Views\\Contratos\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:47:09.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Views\\Contratos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Details.cshtml",
+              "RelativeToolTip": "MVC_Contratos\\Views\\Contratos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:46:11.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Views\\Contratos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Contratos\\Views\\Contratos\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:45:45.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Views\\Contratos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Views\\Contratos\\Create.cshtml",
+              "RelativeToolTip": "MVC_Contratos\\Views\\Contratos\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:28:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TiposContratos.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Models\\Entidades\\TiposContratos.cs",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Models\\Entidades\\TiposContratos.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Models\\Entidades\\TiposContratos.cs",
+              "RelativeToolTip": "MVC_Contratos\\Models\\Entidades\\TiposContratos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:17:11.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Models\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Models\\Entidades\\Clientes.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Models\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "MVC_Contratos\\Models\\Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:12:30.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contratos.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Models\\Entidades\\Contratos.cs",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Models\\Entidades\\Contratos.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Models\\Entidades\\Contratos.cs",
+              "RelativeToolTip": "MVC_Contratos\\Models\\Entidades\\Contratos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:03:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstadiosContext.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Models\\Context\\EstadiosContext.cs",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Models\\Context\\EstadiosContext.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\MVC_Contratos\\MVC_Contratos\\Models\\Context\\EstadiosContext.cs",
+              "RelativeToolTip": "MVC_Contratos\\Models\\Context\\EstadiosContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:45:38.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
