@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\tich_0052_Itzel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{255BA09F-E0DC-433D-AC55-8E31F121D201}|tich_0052_Itzel\\tich_0052_Itzel.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\tich_0052_itzel\\tich_0052_itzel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255BA09F-E0DC-433D-AC55-8E31F121D201}|tich_0052_Itzel\\tich_0052_Itzel.csproj|solutionrelative:tich_0052_itzel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\tich_0052_Itzel\\tich_0052_Itzel\\Program.cs",
+              "RelativeDocumentMoniker": "tich_0052_Itzel\\Program.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\tich_0052_Itzel\\tich_0052_Itzel\\Program.cs",
+              "RelativeToolTip": "tich_0052_Itzel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T18:29:19.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

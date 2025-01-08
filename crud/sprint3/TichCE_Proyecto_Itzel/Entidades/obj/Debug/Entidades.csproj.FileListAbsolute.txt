@@ -1,6 +1,0 @@
-C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Entidades\bin\Debug\Entidades.dll
-C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Entidades\bin\Debug\Entidades.pdb
-C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
-C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Entidades\obj\Debug\Entidades.dll
-C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\crud\sprint2\TichCE_Proyecto_Itzel\Entidades\obj\Debug\Entidades.pdb

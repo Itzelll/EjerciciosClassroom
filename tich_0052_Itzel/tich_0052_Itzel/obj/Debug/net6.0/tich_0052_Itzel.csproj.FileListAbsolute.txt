@@ -1,0 +1,15 @@
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\bin\Debug\net6.0\tich_0052_Itzel.exe
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\bin\Debug\net6.0\tich_0052_Itzel.deps.json
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\bin\Debug\net6.0\tich_0052_Itzel.runtimeconfig.json
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\bin\Debug\net6.0\tich_0052_Itzel.dll
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\bin\Debug\net6.0\tich_0052_Itzel.pdb
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\tich_0052_Itzel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\tich_0052_Itzel.AssemblyInfoInputs.cache
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\tich_0052_Itzel.AssemblyInfo.cs
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\tich_0052_Itzel.csproj.CoreCompileInputs.cache
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\tich_0052_Itzel.sourcelink.json
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\tich_0052_Itzel.dll
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\refint\tich_0052_Itzel.dll
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\tich_0052_Itzel.pdb
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\tich_0052_Itzel.genruntimeconfig.cache
+C:\Users\itzel\OneDrive\Documentos\GitHub\EjerciciosClassroom\tich_0052_Itzel\tich_0052_Itzel\obj\Debug\net6.0\ref\tich_0052_Itzel.dll

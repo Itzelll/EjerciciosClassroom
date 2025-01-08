@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\API_MVC_Contratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A57329FB-2661-4EC8-8E51-32A25FB21C42}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\api_mvc_contratos\\mvc_contratos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A57329FB-2661-4EC8-8E51-32A25FB21C42}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57329FB-2661-4EC8-8E51-32A25FB21C42}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\api_mvc_contratos\\mvc_contratos\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57329FB-2661-4EC8-8E51-32A25FB21C42}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57329FB-2661-4EC8-8E51-32A25FB21C42}|MVC_Contratos\\MVC_Contratos.csproj|c:\\users\\itzel\\onedrive\\documentos\\github\\ejerciciosclassroom\\api_mvc_contratos\\mvc_contratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57329FB-2661-4EC8-8E51-32A25FB21C42}|MVC_Contratos\\MVC_Contratos.csproj|solutionrelative:mvc_contratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContratosController.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\API_MVC_Contratos\\MVC_Contratos\\Controllers\\ContratosController.cs",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Controllers\\ContratosController.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\API_MVC_Contratos\\MVC_Contratos\\Controllers\\ContratosController.cs",
+              "RelativeToolTip": "MVC_Contratos\\Controllers\\ContratosController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:47:20.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\API_MVC_Contratos\\MVC_Contratos\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Contratos\\Program.cs",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\API_MVC_Contratos\\MVC_Contratos\\Program.cs",
+              "RelativeToolTip": "MVC_Contratos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:43:08.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\API_MVC_Contratos\\MVC_Contratos\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Contratos\\appsettings.json",
+              "ToolTip": "C:\\Users\\itzel\\OneDrive\\Documentos\\GitHub\\EjerciciosClassroom\\API_MVC_Contratos\\MVC_Contratos\\appsettings.json",
+              "RelativeToolTip": "MVC_Contratos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T00:42:10.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
